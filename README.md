@@ -8,6 +8,6 @@
 | **B**  | Prisma triangular         | 6        | 9       |
 | **C**  | Octaedro                  | 6        | 12      |
 
-## Análisis (Parte 2)
+## Análisis
 
 Las respuestas a las tres preguntas del pipeline están en el archivo .pdf adjunto
