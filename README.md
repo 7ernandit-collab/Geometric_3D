@@ -11,5 +11,3 @@
 ## Análisis
 Las respuestas a las tres preguntas del pipeline están en el archivo .pdf adjunto
 
-## Enlace para ala visualización
-**https://7ernandit-collab.github.io/Geometric_3D/**
