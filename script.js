@@ -5,7 +5,7 @@ const canvas = document.getElementById('lienzo3D');
 const ctx = canvas.getContext('2d');
 const CENTRO_X = canvas.width / 2;
 const CENTRO_Y = canvas.height / 2;
-
+const distanciaCamara = 500;
 // ==============================================================================
 // 2. TEMAS 3.1 & 3.2: GEOMETRÍA (VÉRTICES Y ARISTAS DE CADA PRIMITIVA)
 // ==============================================================================
